@@ -33,12 +33,6 @@ function App() {
                 </Link>
               </Nav>
 
-              {/* <Nav>
-                <Link to={"/edit-student/:id"} className="nav-link">
-                  Edit Student
-                </Link>
-              </Nav> */}
-
               <Nav>
                 <Link to={"/student-list"} className="nav-link">
                   Student List
